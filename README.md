@@ -24,3 +24,8 @@ Attribute Information:
 > 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 Note : The dataset is taken from Kaggle..
+
+
+Conclusion : Among all the algorithms that are appied Naive Bayes is the one that we will select as It has more accuracy and less False Negative Rate as compare to other models..
+
+Thanks
